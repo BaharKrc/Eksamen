@@ -1,0 +1,39 @@
+header {
+  background-color: #45c4b0;
+  color: whitesmoke;
+}
+nav {
+  background-color: #9aeba3;
+  color: black;
+  border: 2px solid rgba(0, 0, 255, 0.275);
+  border-radius: 7px;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+section {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+figure {
+  background-color: #c7ffed;
+  padding: 4px;
+  margin: auto;
+}
+
+.fig1 {
+  color: black;
+  font-style: italic;
+  padding: 1px;
+  text-align: center;
+}
+footer {
+  background-color: #45c4b0;
+  color: black;
+  text-align: center;
+  padding: 10px;
+}
